@@ -7,10 +7,9 @@ class subChild {
     }
 }
 
-public class inaccessible {
-    public static void main(String[] args){
+class inaccessible {
 
     }
-}
+
 
 
