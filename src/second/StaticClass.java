@@ -26,5 +26,7 @@ public class StaticClass{
         student s2= new student("Sandeep",20);
         s1.display();
         s2.display();
+        BooleanCompare o1= new BooleanCompare();
+        o1.checkCompare();
     }
 }
