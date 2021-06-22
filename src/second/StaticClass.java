@@ -19,7 +19,7 @@ class student{
     }
 }
 
-public class StaticClass{
+public class StaticClass extends BooleanCompare{
     public static void main(String[] args){
         student.change();
         student s1= new student("Mandeep",10);
